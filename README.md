@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akashpagi07@gmail.com**
 
-- ⚡ Fun fact **I think i'm not funny !**
+- ⚡ Fun fact **This Profile is Imaginary !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
