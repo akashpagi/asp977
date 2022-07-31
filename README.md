@@ -3,7 +3,7 @@
  <img src="C:\Users\LENOVO\Desktop\ASP\GITHUB\NewGitHubPhoto.png" />
 </h1>-->
 
-![](https://github.com/asp977/asp977.git)
+![](https://github.com/asp977/GITHUB/blob/main/NewGitHubPhoto.png)
 <h3 align="center">A passionate fornt-end development form India </h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=asp977&label=Profile%20views&color=0e75b6&style=flat" alt="asp977" /> </p>
