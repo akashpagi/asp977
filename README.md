@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Akash Pagi</h1>
-<!--<h1 align="center">
- <img src="C:\Users\LENOVO\Desktop\ASP\GITHUB\NewGitHubPhoto.png" />
-</h1>-->
-
 ![](https://github.com/asp977/GITHUB/blob/main/NewGitHubPhoto.png)
 <h3 align="center">A passionate fornt-end development form India </h3>
 
