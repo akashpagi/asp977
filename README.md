@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asp977" alt="asp977" /></a></p>-->
 
-- 🌱 I’m currently learning JavaScript,CSS 
+- 🌱 I’m currently learning CSS,JavaScript,ReactJS. 
 
 - 📫 How to reach me **akashpagi07@gmail.com**
 
