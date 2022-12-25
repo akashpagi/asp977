@@ -20,13 +20,14 @@
   
 <!-- Dark Mode -->
 <div align="left"> 
+ <p><img align="left" src="https://streak-stats.demolab.com?user=asp977&theme=tokyonight_duo&border_radius=7.7&date_format=j%20M%5B%20Y%5D)" alt="asp977" />
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asp977&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Akash Pagi's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=asp977&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Akash Pagi's Github stats" />
 </a>
- <p><img align="left" src="https://streak-stats.demolab.com?user=asp977&theme=tokyonight_duo&border_radius=7.7&date_format=j%20M%5B%20Y%5D)" alt="asp977" />
+ 
 </div>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=asp977&show_icons=true&locale=en" alt="asp977" /></p>
