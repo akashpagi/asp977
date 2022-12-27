@@ -20,7 +20,7 @@
   
 <!-- Dark Mode -->
 <div align="left"> 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asp977&theme=dark&background=000000" alt="asp977" /></p></p>
+ 
 
  <p><img align="left" src="https://streak-stats.demolab.com?user=asp977&theme=tokyonight_duo&border_radius=7.7&date_format=j%20M%5B%20Y%5D)" alt="asp977" />
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
