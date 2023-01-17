@@ -25,10 +25,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asp977&layout=compact&langs_count=4&hide_border=true&include_orgs=true&theme=transparent" alt="Akash Pagi's Language stats" />
 </a>
+   <!--
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=asp977&show_icons=true&theme=transparent" alt="Akash Pagi's Github stats" />
 </a>
- 
+ -->
 </div>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=asp977&show_icons=true&locale=en" alt="asp977" /></p>
