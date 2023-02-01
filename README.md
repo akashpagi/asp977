@@ -1,5 +1,5 @@
 ![](https://github.com/asp977/GITHUB/blob/main/NewGitHubPhoto.png)
-<h3 align="center"> A PASSION TOWARDS TO LEARNING NEW THINGS </h3>
+<h3 align="center"> * A PASSION TOWARDS TO LEARNING NEW THINGS * </h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=asp977&label=Profile%20views&color=0e75b6&style=flat" alt="asp977" /> </p>
 
