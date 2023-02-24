@@ -12,7 +12,7 @@
 
 -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://komarev.com/ghpvc/?username=asp977">
   <img align="right" src="https://komarev.com/ghpvc/?username=asp977&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -31,7 +31,7 @@
   <samp>
     <a href="#">「 Google Me 」</a>
     <br>
-    「 Aspring _______ from <b>INDIA</b> 」
+    「 Aspiring Data Scientist from <b>India</b> 」
     <br>
     <br>
   </samp>
