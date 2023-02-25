@@ -119,16 +119,23 @@
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 <hr/>
-<p align="center">
-  <a href="https://github.com/asp977">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asp977&theme=radical&border=7F3FBF&background=0D1117" alt="Akash's GitHub streak"/>
-  </a>
-</p>
-
+<!--
 <a> 
     <a href="https://github.com/asp977"><img alt="Akash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=asp977&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/asp977"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=asp977&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/asp977"><img alt="Akash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=asp977&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+-->
 
-<a href="https://github.com/asp977"><img alt="Akash's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=asp977&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+## Github Stats:
+<p align="center">
+  <a href="https://github.com/asp977">
+    <img height = "160" src="https://github-readme-streak-stats.herokuapp.com/?user=asp977&theme=radical&border=7F3FBF&background=0D1117" alt="Akash's GitHub streak"/>
+  </a>
+</p>
+<p align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=asp977&count_private=true&include_all_commits=true&theme=tokyonight" alt="Akash's stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asp977&layout=compact&theme=tokyonight" alt="Akash's top language stats" />
+</p>
+
+<a href="https://github.com/asp977"><img alt="Akash's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=asp977&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF"/></a>
