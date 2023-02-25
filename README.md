@@ -81,7 +81,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ### IDE's/Editors :
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -138,4 +137,5 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asp977&layout=compact&theme=tokyonight" alt="Akash's top language stats" />
 </p>
 
-<a href="https://github.com/asp977"><img alt="Akash's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=asp977&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF"/></a>
+
+<a href="https://github.com/asp977"><img  height="270" width="1050" alt="Akash's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=asp977&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
