@@ -53,6 +53,11 @@
  <a href="https://facebook.com/akashpagi07" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="asp977"  />
   </a> 
+  
+  <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="asp977"  />
+  </a>
+ <!--https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)-->
 </p>
 <br />
 
@@ -62,15 +67,12 @@
 <p>
  <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new thing <br/><br/>
- 📧 &emsp; Reach me anytime: akashpagi07@gmail.com<br/><br/>
+ ✌️ Enjoy to do programming and sharing knowledge <br/>
+ ❤️ Love to writing code and learning new thing <br/>
+ 📧 &emsp; Reach me anytime: akashpagi07@gmail.com<br/>
 
 
 </p>
-
-<br/>
-
 
 ### Web Development :
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -112,7 +114,6 @@
 ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 <hr/>
