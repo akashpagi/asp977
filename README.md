@@ -25,14 +25,10 @@
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    
-    <br>
-    「 Aspiring Data Scientist from <b>India</b> 」
-    <br>
-    <br>
-  </samp>
+<p align="center">
+    Aspiring Data Scientist from <b>India</b>
+   
+   
 </p>
 
 <p align="center">
