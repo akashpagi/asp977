@@ -27,7 +27,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="#">「 Google Me 」</a>
+    
     <br>
     「 Aspiring Data Scientist from <b>India</b> 」
     <br>
