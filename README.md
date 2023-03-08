@@ -63,7 +63,7 @@
  <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
  
  ✌️ Enjoy to do programming and sharing knowledge <br/>
- ❤️ Try to learning new things <br/>
+ ❤️ Try to learn new things <br/>
  📧 Reach me anytime: pagiakash188@gmail.com<br/>
 </p>
 
