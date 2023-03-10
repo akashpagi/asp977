@@ -26,9 +26,7 @@
 
 
 <p align="center">
-    Aspiring Data Scientist from <b>India</b>
-   
-   
+    Aspiring Data Scientist  
 </p>
 
 <p align="center">
